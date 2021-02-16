@@ -1,0 +1,12 @@
+commaSheet.csv
+containsSymbol.txt
+exTextImport.py
+headLinesFromMD.md
+myMdFiles.md
+output.txt
+three_functions.py
+utils.py
+__init__.py
+helloFromSubfolder1.txt
+exTextImport.cpython-39.pyc
+utils.cpython-39.pyc
