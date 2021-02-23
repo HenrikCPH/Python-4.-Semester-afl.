@@ -13,7 +13,6 @@ def get_file_names(folderpath, out='output.txt'):
 
 def get_all_file_names(folderpath, out='output.txt'):
     """takes a path to a folder and write all filenames recursively (files of all sub folders to)"""
-    # this is not done recursively
     with open(out, 'w') as file_object:
         for root, subdirs, files in os.walk("."):
             for filename in files:
