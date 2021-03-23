@@ -1,0 +1,746 @@
+1616516072297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemSztBo"
+Error: no DISPLAY environment variable specified
+1616516117173	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepjDBF6"
+Error: no DISPLAY environment variable specified
+1616516173917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0o2iLo"
+Error: no DISPLAY environment variable specified
+1616516188641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletDxebD"
+Error: no DISPLAY environment variable specified
+1616516281772	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3Q1YdE"
+Error: no DISPLAY environment variable specified
+1616516350490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqLXuRp"
+Error: no DISPLAY environment variable specified
+1616516425713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehhu1ol"
+Error: no DISPLAY environment variable specified
+1616517365776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWANFGn"
+Error: no DISPLAY environment variable specified
+1616517404088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVXgnFE"
+Error: no DISPLAY environment variable specified
+1616517490814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYYS6lD"
+*** You are running in headless mode.
+
+(firefox:305): GLib-GObject-WARNING **: 16:38:11.730: invalid (NULL) pointer instance
+
+(firefox:305): GLib-GObject-CRITICAL **: 16:38:11.731: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:441): GLib-GObject-WARNING **: 16:38:12.800: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:441): GLib-GObject-CRITICAL **: 16:38:12.800: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:466): GLib-GObject-WARNING **: 16:38:12.959: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:466): GLib-GObject-CRITICAL **: 16:38:12.959: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616517495272	Marionette	INFO	Listening on port 35757
+
+(/usr/lib/firefox/firefox:541): GLib-GObject-WARNING **: 16:38:15.293: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:541): GLib-GObject-CRITICAL **: 16:38:15.294: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616517495363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616517508022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHjDt9x"
+*** You are running in headless mode.
+
+(firefox:603): GLib-GObject-WARNING **: 16:38:28.393: invalid (NULL) pointer instance
+
+(firefox:603): GLib-GObject-CRITICAL **: 16:38:28.394: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:717): GLib-GObject-WARNING **: 16:38:28.954: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:717): GLib-GObject-CRITICAL **: 16:38:28.954: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:742): GLib-GObject-WARNING **: 16:38:29.055: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:742): GLib-GObject-CRITICAL **: 16:38:29.055: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616517510208	Marionette	INFO	Listening on port 35211
+
+(/usr/lib/firefox/firefox:810): GLib-GObject-WARNING **: 16:38:30.221: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:810): GLib-GObject-CRITICAL **: 16:38:30.221: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616517510263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616517575169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUwy8Bv"
+*** You are running in headless mode.
+
+(firefox:907): GLib-GObject-WARNING **: 16:39:35.536: invalid (NULL) pointer instance
+
+(firefox:907): GLib-GObject-CRITICAL **: 16:39:35.537: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1018): GLib-GObject-WARNING **: 16:39:36.055: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1018): GLib-GObject-CRITICAL **: 16:39:36.055: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1043): GLib-GObject-WARNING **: 16:39:36.153: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1043): GLib-GObject-CRITICAL **: 16:39:36.154: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:1113): GLib-GObject-WARNING **: 16:39:37.452: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1113): GLib-GObject-CRITICAL **: 16:39:37.452: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616517577479	Marionette	INFO	Listening on port 42651
+1616517577514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616517611878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoUUTcR"
+*** You are running in headless mode.
+
+(firefox:1197): GLib-GObject-WARNING **: 16:40:12.297: invalid (NULL) pointer instance
+
+(firefox:1197): GLib-GObject-CRITICAL **: 16:40:12.297: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1294): GLib-GObject-WARNING **: 16:40:12.824: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1294): GLib-GObject-CRITICAL **: 16:40:12.824: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1319): GLib-GObject-WARNING **: 16:40:12.929: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1319): GLib-GObject-CRITICAL **: 16:40:12.930: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616517614208	Marionette	INFO	Listening on port 39127
+
+(/usr/lib/firefox/firefox:1393): GLib-GObject-WARNING **: 16:40:14.227: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1393): GLib-GObject-CRITICAL **: 16:40:14.228: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616517614319	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616517755423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLqUpwB"
+*** You are running in headless mode.
+
+(firefox:1515): GLib-GObject-WARNING **: 16:42:35.853: invalid (NULL) pointer instance
+
+(firefox:1515): GLib-GObject-CRITICAL **: 16:42:35.853: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1654): GLib-GObject-WARNING **: 16:42:36.442: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1654): GLib-GObject-CRITICAL **: 16:42:36.443: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1684): GLib-GObject-WARNING **: 16:42:36.551: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1684): GLib-GObject-CRITICAL **: 16:42:36.551: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616517758770	Marionette	INFO	Listening on port 42453
+1616517759048	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:1755): GLib-GObject-WARNING **: 16:42:39.055: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1755): GLib-GObject-CRITICAL **: 16:42:39.055: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616517944783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile65ufaj"
+*** You are running in headless mode.
+
+(firefox:1927): GLib-GObject-WARNING **: 16:45:45.181: invalid (NULL) pointer instance
+
+(firefox:1927): GLib-GObject-CRITICAL **: 16:45:45.181: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1978): GLib-GObject-WARNING **: 16:45:45.622: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1978): GLib-GObject-CRITICAL **: 16:45:45.623: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2106): GLib-GObject-WARNING **: 16:45:45.813: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2106): GLib-GObject-CRITICAL **: 16:45:45.813: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:2177): GLib-GObject-WARNING **: 16:45:47.167: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2177): GLib-GObject-CRITICAL **: 16:45:47.168: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616517947194	Marionette	INFO	Listening on port 37113
+1616517947330	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616518013889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIwdAHA"
+*** You are running in headless mode.
+
+(firefox:2276): GLib-GObject-WARNING **: 16:46:54.301: invalid (NULL) pointer instance
+
+(firefox:2276): GLib-GObject-CRITICAL **: 16:46:54.301: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2328): GLib-GObject-WARNING **: 16:46:54.737: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2328): GLib-GObject-CRITICAL **: 16:46:54.737: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2441): GLib-GObject-WARNING **: 16:46:54.951: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2441): GLib-GObject-CRITICAL **: 16:46:54.951: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616518019986	Marionette	INFO	Listening on port 42017
+
+(/usr/lib/firefox/firefox:2517): GLib-GObject-WARNING **: 16:47:00.127: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2517): GLib-GObject-CRITICAL **: 16:47:00.127: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616518020251	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616518323867	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKH7thO"
+*** You are running in headless mode.
+
+(firefox:2658): GLib-GObject-WARNING **: 16:52:04.315: invalid (NULL) pointer instance
+
+(firefox:2658): GLib-GObject-CRITICAL **: 16:52:04.315: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2802): GLib-GObject-WARNING **: 16:52:04.994: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2802): GLib-GObject-CRITICAL **: 16:52:04.995: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2827): GLib-GObject-WARNING **: 16:52:05.114: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2827): GLib-GObject-CRITICAL **: 16:52:05.115: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616518326556	Marionette	INFO	Listening on port 33507
+1616518326629	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:2901): GLib-GObject-WARNING **: 16:52:07.628: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2901): GLib-GObject-CRITICAL **: 16:52:07.629: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616518481069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQoPXcm"
+*** You are running in headless mode.
+
+(firefox:3000): GLib-GObject-WARNING **: 16:54:41.522: invalid (NULL) pointer instance
+
+(firefox:3000): GLib-GObject-CRITICAL **: 16:54:41.523: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3138): GLib-GObject-WARNING **: 16:54:42.160: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3138): GLib-GObject-CRITICAL **: 16:54:42.161: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3163): GLib-GObject-WARNING **: 16:54:42.290: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3163): GLib-GObject-CRITICAL **: 16:54:42.290: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3236): GLib-GObject-WARNING **: 16:54:48.617: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3236): GLib-GObject-CRITICAL **: 16:54:48.623: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3235): GLib-GObject-WARNING **: 16:54:49.319: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3235): GLib-GObject-CRITICAL **: 16:54:49.320: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616518489396	Marionette	INFO	Listening on port 38771
+1616518489503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616518501246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiy4zrc"
+*** You are running in headless mode.
+
+(firefox:3333): GLib-GObject-WARNING **: 16:55:01.769: invalid (NULL) pointer instance
+
+(firefox:3333): GLib-GObject-CRITICAL **: 16:55:01.769: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3382): GLib-GObject-WARNING **: 16:55:04.144: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3382): GLib-GObject-CRITICAL **: 16:55:04.144: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3484): GLib-GObject-WARNING **: 16:55:05.249: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3484): GLib-GObject-CRITICAL **: 16:55:05.250: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3551): GLib-GObject-WARNING **: 16:55:11.941: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3551): GLib-GObject-CRITICAL **: 16:55:11.941: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616518517127	Marionette	INFO	Listening on port 42851
+1616518517210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616518629888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileehjWIu"
+*** You are running in headless mode.
+
+(firefox:3671): GLib-GObject-WARNING **: 16:57:10.468: invalid (NULL) pointer instance
+
+(firefox:3671): GLib-GObject-CRITICAL **: 16:57:10.469: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3784): GLib-GObject-WARNING **: 16:57:11.149: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3784): GLib-GObject-CRITICAL **: 16:57:11.149: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3809): GLib-GObject-WARNING **: 16:57:11.281: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3809): GLib-GObject-CRITICAL **: 16:57:11.281: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3873): GLib-GObject-WARNING **: 16:57:15.382: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3873): GLib-GObject-CRITICAL **: 16:57:15.383: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616518642997	Marionette	INFO	Listening on port 35853
+1616518643056	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616520133539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOT2FXC"
+*** You are running in headless mode.
+
+(firefox:4155): GLib-GObject-WARNING **: 17:22:14.797: invalid (NULL) pointer instance
+
+(firefox:4155): GLib-GObject-CRITICAL **: 17:22:14.798: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4305): GLib-GObject-WARNING **: 17:22:15.428: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4305): GLib-GObject-CRITICAL **: 17:22:15.428: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4330): GLib-GObject-WARNING **: 17:22:16.414: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4330): GLib-GObject-CRITICAL **: 17:22:16.415: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+
+(/usr/lib/firefox/firefox:4402): GLib-GObject-WARNING **: 17:22:37.233: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4402): GLib-GObject-CRITICAL **: 17:22:37.234: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616520157365	Marionette	INFO	Listening on port 36419
+1616520157431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616520259331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3NTDBc"
+*** You are running in headless mode.
+
+(firefox:4494): GLib-GObject-WARNING **: 17:24:19.755: invalid (NULL) pointer instance
+
+(firefox:4494): GLib-GObject-CRITICAL **: 17:24:19.756: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4628): GLib-GObject-WARNING **: 17:24:21.414: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4628): GLib-GObject-CRITICAL **: 17:24:21.415: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4653): GLib-GObject-WARNING **: 17:24:26.812: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4653): GLib-GObject-CRITICAL **: 17:24:26.812: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:4718): GLib-GObject-WARNING **: 17:24:35.489: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4718): GLib-GObject-CRITICAL **: 17:24:35.490: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616520282988	Marionette	INFO	Listening on port 44835
+1616520284551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616520354132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXkoPin"
+*** You are running in headless mode.
+
+(firefox:4835): GLib-GObject-WARNING **: 17:25:57.353: invalid (NULL) pointer instance
+
+(firefox:4835): GLib-GObject-CRITICAL **: 17:25:57.354: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4888): GLib-GObject-WARNING **: 17:26:35.419: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4888): GLib-GObject-CRITICAL **: 17:26:35.423: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:4972): GLib-GObject-WARNING **: 17:26:44.857: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:4972): GLib-GObject-CRITICAL **: 17:26:44.857: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+Exiting due to channel error.
+Exiting due to channel error.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616520869530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFAbX7i"
+*** You are running in headless mode.
+
+(firefox:5126): GLib-GObject-WARNING **: 17:34:31.846: invalid (NULL) pointer instance
+
+(firefox:5126): GLib-GObject-CRITICAL **: 17:34:31.846: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5266): GLib-GObject-WARNING **: 17:34:32.494: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5266): GLib-GObject-CRITICAL **: 17:34:32.495: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5291): GLib-GObject-WARNING **: 17:34:32.650: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5291): GLib-GObject-CRITICAL **: 17:34:32.651: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+
+(/usr/lib/firefox/firefox:5367): GLib-GObject-WARNING **: 17:34:55.483: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5367): GLib-GObject-CRITICAL **: 17:34:55.519: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5369): GLib-GObject-WARNING **: 17:34:57.912: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5369): GLib-GObject-CRITICAL **: 17:34:57.912: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616520902942	Marionette	INFO	Listening on port 39055
+1616520903065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616521090228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7ZHLOR"
+*** You are running in headless mode.
+
+(firefox:5512): GLib-GObject-WARNING **: 17:38:16.046: invalid (NULL) pointer instance
+
+(firefox:5512): GLib-GObject-CRITICAL **: 17:38:16.047: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5560): GLib-GObject-WARNING **: 17:38:18.640: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5560): GLib-GObject-CRITICAL **: 17:38:18.641: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5689): GLib-GObject-WARNING **: 17:38:27.334: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5689): GLib-GObject-CRITICAL **: 17:38:27.335: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:5752): GLib-GObject-WARNING **: 17:38:36.330: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5752): GLib-GObject-CRITICAL **: 17:38:36.331: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616521117516	Marionette	INFO	Listening on port 45361
+1616521117594	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616521445648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeGH72U"
+*** You are running in headless mode.
+
+(firefox:5912): GLib-GObject-WARNING **: 17:44:06.623: invalid (NULL) pointer instance
+
+(firefox:5912): GLib-GObject-CRITICAL **: 17:44:06.624: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:5961): GLib-GObject-WARNING **: 17:44:07.783: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:5961): GLib-GObject-CRITICAL **: 17:44:07.783: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6075): GLib-GObject-WARNING **: 17:44:08.083: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6075): GLib-GObject-CRITICAL **: 17:44:08.084: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6139): GLib-GObject-WARNING **: 17:44:09.897: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6139): GLib-GObject-CRITICAL **: 17:44:09.898: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616521451563	Marionette	INFO	Listening on port 37247
+1616521451628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616521479734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEszPKZ"
+*** You are running in headless mode.
+
+(firefox:6229): GLib-GObject-WARNING **: 17:44:41.655: invalid (NULL) pointer instance
+
+(firefox:6229): GLib-GObject-CRITICAL **: 17:44:41.657: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6281): GLib-GObject-WARNING **: 17:44:44.009: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6281): GLib-GObject-CRITICAL **: 17:44:44.010: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6388): GLib-GObject-WARNING **: 17:44:44.776: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6388): GLib-GObject-CRITICAL **: 17:44:44.776: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616521489846	Marionette	INFO	Listening on port 33515
+1616521489912	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6468): GLib-GObject-WARNING **: 17:44:51.056: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6468): GLib-GObject-CRITICAL **: 17:44:51.057: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616522033370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW3BsrT"
+*** You are running in headless mode.
+
+(firefox:6687): GLib-GObject-WARNING **: 17:53:55.434: invalid (NULL) pointer instance
+
+(firefox:6687): GLib-GObject-CRITICAL **: 17:53:55.434: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6851): GLib-GObject-WARNING **: 17:53:57.095: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6851): GLib-GObject-CRITICAL **: 17:53:57.096: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:6878): GLib-GObject-WARNING **: 17:53:59.011: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6878): GLib-GObject-CRITICAL **: 17:53:59.011: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:6938): GLib-GObject-WARNING **: 17:54:00.839: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:6938): GLib-GObject-CRITICAL **: 17:54:00.839: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616522044417	Marionette	INFO	Listening on port 45363
+1616522044976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616522108600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewSqC7r"
+*** You are running in headless mode.
+
+(firefox:7066): GLib-GObject-WARNING **: 17:55:09.095: invalid (NULL) pointer instance
+
+(firefox:7066): GLib-GObject-CRITICAL **: 17:55:09.096: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7190): GLib-GObject-WARNING **: 17:55:10.304: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7190): GLib-GObject-CRITICAL **: 17:55:10.305: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7215): GLib-GObject-WARNING **: 17:55:12.827: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7215): GLib-GObject-CRITICAL **: 17:55:12.827: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7275): GLib-GObject-WARNING **: 17:55:14.622: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7275): GLib-GObject-CRITICAL **: 17:55:14.685: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616522116956	Marionette	INFO	Listening on port 39691
+1616522117083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616522143783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekIrsTB"
+*** You are running in headless mode.
+
+(firefox:7380): GLib-GObject-WARNING **: 17:55:44.687: invalid (NULL) pointer instance
+
+(firefox:7380): GLib-GObject-CRITICAL **: 17:55:44.689: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7509): GLib-GObject-WARNING **: 17:55:45.874: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7509): GLib-GObject-CRITICAL **: 17:55:45.874: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:7532): GLib-GObject-WARNING **: 17:55:57.669: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7532): GLib-GObject-CRITICAL **: 17:55:57.669: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:7604): GLib-GObject-WARNING **: 17:56:02.815: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:7604): GLib-GObject-CRITICAL **: 17:56:02.816: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616522162945	Marionette	INFO	Listening on port 37897
+1616522162997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616522464248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQe4Jvo"
+*** You are running in headless mode.
+
+(firefox:54): GLib-GObject-WARNING **: 18:01:04.851: invalid (NULL) pointer instance
+
+(firefox:54): GLib-GObject-CRITICAL **: 18:01:04.851: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:144): GLib-GObject-WARNING **: 18:01:05.523: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:144): GLib-GObject-CRITICAL **: 18:01:05.523: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:169): GLib-GObject-WARNING **: 18:01:05.653: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:169): GLib-GObject-CRITICAL **: 18:01:05.654: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:242): GLib-GObject-WARNING **: 18:01:07.003: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:242): GLib-GObject-CRITICAL **: 18:01:07.003: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616522467037	Marionette	INFO	Listening on port 44041
+1616522467086	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616522687953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley5B8f8"
+*** You are running in headless mode.
+
+(firefox:333): GLib-GObject-WARNING **: 18:04:48.309: invalid (NULL) pointer instance
+
+(firefox:333): GLib-GObject-CRITICAL **: 18:04:48.309: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:419): GLib-GObject-WARNING **: 18:04:48.815: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:419): GLib-GObject-CRITICAL **: 18:04:48.815: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:444): GLib-GObject-WARNING **: 18:04:48.901: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:444): GLib-GObject-CRITICAL **: 18:04:48.901: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616522690188	Marionette	INFO	Listening on port 45459
+
+(/usr/lib/firefox/firefox:513): GLib-GObject-WARNING **: 18:04:50.206: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:513): GLib-GObject-CRITICAL **: 18:04:50.206: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616522690290	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616522807404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezQKb0r"
+*** You are running in headless mode.
+
+(firefox:616): GLib-GObject-WARNING **: 18:06:47.766: invalid (NULL) pointer instance
+
+(firefox:616): GLib-GObject-CRITICAL **: 18:06:47.766: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:724): GLib-GObject-WARNING **: 18:06:48.265: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:724): GLib-GObject-CRITICAL **: 18:06:48.266: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:749): GLib-GObject-WARNING **: 18:06:48.358: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:749): GLib-GObject-CRITICAL **: 18:06:48.359: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616522809538	Marionette	INFO	Listening on port 44191
+
+(/usr/lib/firefox/firefox:824): GLib-GObject-WARNING **: 18:06:49.556: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:824): GLib-GObject-CRITICAL **: 18:06:49.556: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616522809635	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616522999538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC5iaUQ"
+*** You are running in headless mode.
+
+(firefox:950): GLib-GObject-WARNING **: 18:09:59.903: invalid (NULL) pointer instance
+
+(firefox:950): GLib-GObject-CRITICAL **: 18:09:59.904: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1050): GLib-GObject-WARNING **: 18:10:00.407: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1050): GLib-GObject-CRITICAL **: 18:10:00.407: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1075): GLib-GObject-WARNING **: 18:10:00.500: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1075): GLib-GObject-CRITICAL **: 18:10:00.500: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:1150): GLib-GObject-WARNING **: 18:10:01.857: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1150): GLib-GObject-CRITICAL **: 18:10:01.858: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616523001877	Marionette	INFO	Listening on port 35201
+1616523001969	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616523035077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel2U7p6"
+*** You are running in headless mode.
+
+(firefox:1243): GLib-GObject-WARNING **: 18:10:35.452: invalid (NULL) pointer instance
+
+(firefox:1243): GLib-GObject-CRITICAL **: 18:10:35.452: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1336): GLib-GObject-WARNING **: 18:10:35.967: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1336): GLib-GObject-CRITICAL **: 18:10:35.968: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1361): GLib-GObject-WARNING **: 18:10:36.062: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1361): GLib-GObject-CRITICAL **: 18:10:36.063: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616523037253	Marionette	INFO	Listening on port 36271
+
+(/usr/lib/firefox/firefox:1432): GLib-GObject-WARNING **: 18:10:37.286: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1432): GLib-GObject-CRITICAL **: 18:10:37.287: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616523037318	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616523160503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLvZSyR"
+*** You are running in headless mode.
+
+(firefox:1554): GLib-GObject-WARNING **: 18:12:40.858: invalid (NULL) pointer instance
+
+(firefox:1554): GLib-GObject-CRITICAL **: 18:12:40.859: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1665): GLib-GObject-WARNING **: 18:12:41.379: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1665): GLib-GObject-CRITICAL **: 18:12:41.379: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1690): GLib-GObject-WARNING **: 18:12:41.472: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1690): GLib-GObject-CRITICAL **: 18:12:41.472: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616523162665	Marionette	INFO	Listening on port 43177
+
+(/usr/lib/firefox/firefox:1763): GLib-GObject-WARNING **: 18:12:42.678: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1763): GLib-GObject-CRITICAL **: 18:12:42.678: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616523162742	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616523268495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDYI62h"
+*** You are running in headless mode.
+
+(firefox:1875): GLib-GObject-WARNING **: 18:14:28.866: invalid (NULL) pointer instance
+
+(firefox:1875): GLib-GObject-CRITICAL **: 18:14:28.866: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:1980): GLib-GObject-WARNING **: 18:14:29.364: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:1980): GLib-GObject-CRITICAL **: 18:14:29.365: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2005): GLib-GObject-WARNING **: 18:14:29.460: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2005): GLib-GObject-CRITICAL **: 18:14:29.460: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616523270684	Marionette	INFO	Listening on port 43183
+
+(/usr/lib/firefox/firefox:2086): GLib-GObject-WARNING **: 18:14:30.692: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2086): GLib-GObject-CRITICAL **: 18:14:30.692: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616523270739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616523311515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq4TZzq"
+*** You are running in headless mode.
+
+(firefox:2190): GLib-GObject-WARNING **: 18:15:11.879: invalid (NULL) pointer instance
+
+(firefox:2190): GLib-GObject-CRITICAL **: 18:15:11.880: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2303): GLib-GObject-WARNING **: 18:15:12.387: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2303): GLib-GObject-CRITICAL **: 18:15:12.387: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2330): GLib-GObject-WARNING **: 18:15:12.484: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2330): GLib-GObject-CRITICAL **: 18:15:12.485: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616523313697	Marionette	INFO	Listening on port 33409
+
+(/usr/lib/firefox/firefox:2400): GLib-GObject-WARNING **: 18:15:13.703: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2400): GLib-GObject-CRITICAL **: 18:15:13.703: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616523313754	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616523384248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenHJ5du"
+*** You are running in headless mode.
+
+(firefox:2511): GLib-GObject-WARNING **: 18:16:24.614: invalid (NULL) pointer instance
+
+(firefox:2511): GLib-GObject-CRITICAL **: 18:16:24.614: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-WARNING **: 18:16:25.114: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2616): GLib-GObject-CRITICAL **: 18:16:25.115: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2641): GLib-GObject-WARNING **: 18:16:25.207: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2641): GLib-GObject-CRITICAL **: 18:16:25.208: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616523386401	Marionette	INFO	Listening on port 46125
+
+(/usr/lib/firefox/firefox:2716): GLib-GObject-WARNING **: 18:16:26.426: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2716): GLib-GObject-CRITICAL **: 18:16:26.427: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616523386478	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616523413047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0o0pdT"
+*** You are running in headless mode.
+
+(firefox:2811): GLib-GObject-WARNING **: 18:16:53.418: invalid (NULL) pointer instance
+
+(firefox:2811): GLib-GObject-CRITICAL **: 18:16:53.418: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2914): GLib-GObject-WARNING **: 18:16:53.939: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2914): GLib-GObject-CRITICAL **: 18:16:53.939: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:2939): GLib-GObject-WARNING **: 18:16:54.035: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:2939): GLib-GObject-CRITICAL **: 18:16:54.035: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616523415237	Marionette	INFO	Listening on port 41247
+
+(/usr/lib/firefox/firefox:3010): GLib-GObject-WARNING **: 18:16:55.253: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3010): GLib-GObject-CRITICAL **: 18:16:55.253: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616523415288	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616523431394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7FHqoa"
+*** You are running in headless mode.
+
+(firefox:3109): GLib-GObject-WARNING **: 18:17:11.788: invalid (NULL) pointer instance
+
+(firefox:3109): GLib-GObject-CRITICAL **: 18:17:11.788: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3236): GLib-GObject-WARNING **: 18:17:12.454: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3236): GLib-GObject-CRITICAL **: 18:17:12.454: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3261): GLib-GObject-WARNING **: 18:17:13.251: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3261): GLib-GObject-CRITICAL **: 18:17:13.251: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:3329): GLib-GObject-WARNING **: 18:17:19.215: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3329): GLib-GObject-CRITICAL **: 18:17:19.554: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616523439539	Marionette	INFO	Listening on port 33461
+1616523442883	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616524182675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5caqtj"
+*** You are running in headless mode.
+
+(firefox:3670): GLib-GObject-WARNING **: 18:29:43.098: invalid (NULL) pointer instance
+
+(firefox:3670): GLib-GObject-CRITICAL **: 18:29:43.098: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3811): GLib-GObject-WARNING **: 18:29:43.697: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3811): GLib-GObject-CRITICAL **: 18:29:43.697: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(/usr/lib/firefox/firefox:3836): GLib-GObject-WARNING **: 18:29:43.804: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3836): GLib-GObject-CRITICAL **: 18:29:43.804: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616524185142	Marionette	INFO	Listening on port 44043
+
+(/usr/lib/firefox/firefox:3904): GLib-GObject-WARNING **: 18:29:45.167: invalid (NULL) pointer instance
+
+(/usr/lib/firefox/firefox:3904): GLib-GObject-CRITICAL **: 18:29:45.168: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+1616524185217	Marionette	WARN	TLS certificate errors will be ignored for this session
